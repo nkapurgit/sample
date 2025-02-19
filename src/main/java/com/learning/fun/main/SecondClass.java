@@ -6,5 +6,6 @@ public class SecondClass {
         System.out.println("hello");
         System.out.println("world");
         System.out.println("Earth");
+        System.out.println("Universe");
     }
 }
