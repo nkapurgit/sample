@@ -8,5 +8,6 @@ public class SecondClass {
         System.out.println("Earth");
         System.out.println("Galaxy");
         System.out.println("Universe");
+        System.out.println("Moon");
     }
 }
